@@ -1,0 +1,7 @@
+body {
+    background-image: linear-gradient(#ff00c3, rgb(56, 97, 146), rgb(128, 0, 62));
+  }
+
+.content {
+    margin-left: 2em;
+}
